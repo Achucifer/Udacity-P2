@@ -1,19 +1,55 @@
-"bio": [
+[{
 
-name : "Robert E Achu";
-role : "Web Developer";
+"name": "Robert E Achu",
+"role": "Web Developer",
+"contacts": [
+	{
+      "mobile": "651-734-3452",
+      "email": "rob.e.achu@gmail.com",
+      "github": "https://github.com/Achucifer",
+      "twitter": "@Achucifer", 
+      "location": "Saint Paul, Minnesota",
+	  "welcomeMessage": "You have arrived!"
+	}
+], 
 
-contacts : an object with
-      mobile: "651-734-3452;
-      email: "rob.e.achu@gmail.com"; 
-      github: "https://github.com/Achucifer";
-      twitter: "@Achucifer"; 
-      location: "Saint Paul, Minnesota";
-welcomeMessage: "You have arrived!"; 
+"skills": [
+		"Adobe Creative Suite",
+		"AJAX",
+		"Bootstrap",
+		"Camtasia",
+		"Content Management Systems",
+		"CRM",
+		"CSS",
+		"Dreamweaver",
+		"Email Marketing",
+		"Email Support",
+		"Excel Spreadsheets",
+		"Foundations",
+		"Graphic Design",
+		"HTML",
+		"Illustrator",
+		"Image Editing",
+		"IMAP",
+		"InDesign",
+		"Javascript",
+		"jQuery",
+		"JSON",
+		"MadCap Flare",
+		"Microsoft",
+		"Photoshop",
+		"PHP",
+		"POP",
+		"Proofreading",
+		"SASS",
+		"SEO",
+		"Web Design",
+		"Wordpress",
+		"XML",
+		"Zendesk"		
+],
 
-skills: ["Graphic Design", "Photoshop, "]
-biopic: "http://www.robertachu.com";
-display: function
+"biopic": "http://www.robertachu.com",
+"display": "function"
 
-
-]
+}]
