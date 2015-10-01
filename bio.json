@@ -1,0 +1,19 @@
+"bio": [
+
+name : "Robert E Achu";
+role : "Web Developer";
+
+contacts : an object with
+      mobile: "651-734-3452;
+      email: "rob.e.achu@gmail.com"; 
+      github: "https://github.com/Achucifer";
+      twitter: "@Achucifer"; 
+      location: "Saint Paul, Minnesota";
+welcomeMessage: "You have arrived!"; 
+
+skills: ["Graphic Design", "Photoshop, "]
+biopic: "http://www.robertachu.com";
+display: function
+
+
+]
